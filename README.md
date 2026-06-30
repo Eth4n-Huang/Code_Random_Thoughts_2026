@@ -1,2 +1,26 @@
 # Code_Random_Thoughts_2026
-Daily LeetCode practice notes based on Code Random Thoughts, including solutions, code, and reflections.
+
+代码随想录刷题记录。
+
+开始日期：2026-07-01  
+每日投入：约 1.5 小时，尽量控制在 2 小时内。  
+记录内容：LeetCode 题解、代码实现、易错点和复盘总结。
+
+
+## 记录规则
+
+- 每天刷完题后更新当天文件夹里的 README.md。
+- 每道题至少记录：题目理解、解题思路、复杂度、易错点、最终代码、复盘。
+- 完成当天任务后，把总进度里的状态从 ⬜ 改成 ✅。
+- 不只贴代码，重点记录为什么这样做、哪里容易错、下次如何快速识别题型。
+
+## 专题目录
+
+- 数组
+- 链表
+- 哈希表
+- 字符串
+- 栈与队列
+- 二叉树
+- 动态规划
+- 单调栈
